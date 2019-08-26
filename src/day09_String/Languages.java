@@ -56,27 +56,16 @@ public class Languages {
 		  return count;
 		}
 
+}
 
 
 
-
-	private String str;
 
 		
 	
 
 
-String temp= str;
-if(temp.contains("co"))
-	  temp=str.substring(str.indexOf("co"));;
-int count=0;
-while(temp.contains("co")&&temp.length()>3){
-  if(temp.charAt(3)=='e'){
-    count++;
-  }
-  temp=temp.substring(1);
-  if(temp.contains("co"))
-  temp=temp.substring(temp.indexOf("co"));
+
 
 
 

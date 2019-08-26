@@ -13,8 +13,9 @@ public class GradeCheck {
 //int C= 70-79;
 //int D= 60-69;
 
-//Scanner scan = new Scanner(System.in);
-//System.out.println("Enter your grade: ");
+
+Scanner scan = new Scanner(System.in);
+System.out.println("Enter your grade: ");
 char grade = scan.next().charAt(0);
 if(grade=='A') {
 	

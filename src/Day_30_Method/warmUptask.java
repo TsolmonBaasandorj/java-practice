@@ -23,11 +23,7 @@ public class warmUptask {
 //		}
 		
 		
-		String a="aabxxx";
-		int count=0;
-		for(int i=0;i<a.length();i++) {
-			if(a.substring(i,i+))
-		}
+		
 	}
 
 }
